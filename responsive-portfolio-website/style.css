@@ -254,6 +254,8 @@ section .title span::after {
   width: 400px;
   object-fit: cover;
   border-radius: 12px;
+  top: 30px;
+  right: 0px;
 }
 
 .about-details .right {
@@ -488,6 +490,7 @@ footer .text span a:hover {
   .about-details .right {
     width: 90%;
     margin: 40px 0;
+   
   }
 
   .services .boxes .box {
